@@ -5,7 +5,7 @@ This project uses ```gradio``` to serve the fine tuned model
 
 ![Sample Image](images/detailedInference.png)
 
-[![Demo](images/demo_thumbnil.png)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/164KuH2qRzHLm7LFdbxZPDtqSzb1PAper/view?usp=sharing))
+![Demo](https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/164KuH2qRzHLm7LFdbxZPDtqSzb1PAper/view?usp=sharing)
 
 
 ## Dataset used
