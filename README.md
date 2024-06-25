@@ -4,7 +4,7 @@ Fine-tuning LLava, a leading-edge Large Language Model (LLM), enhances its capab
 ## Dataset used
 For fine-tuning LLava, we employed the [LLaVA-Instruct-Mix-VSFT dataset](https://huggingface.co/datasets/HuggingFaceH4/llava-instruct-mix-vsft) dataset from Hugging Face. This dataset combines diverse instruction-following examples and conversational prompts, designed to enhance the model's ability to generate coherent, contextually appropriate responses. It includes a wide variety of scenarios, facilitating the model’s adaptation to multiple conversational styles and topics, thus enriching LLava’s proficiency in handling real-world interactions and diverse linguistic nuances.
 
-## Setup instruction
+## Inference Setup instruction
 To get started with this project, follow these steps:
 
 **Note:** It is advisable to use colab ```T4``` environment. The model is ```4-bit``` quantized and requires GPU. 
