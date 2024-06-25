@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 Clone the repository and run app.py on colab:
 
    ```bash
-   !git clone git@github.com:muffyharsha/LLAVA-finetune-multimodal.git
+   !git clone https://github.com/muffyharsha/LLAVA-finetune-multimodal.git
    !pip install -r /content/LLAVA-finetune-multimodal/requirements.txt
    !python /content/LLAVA-finetune-multimodal/app.py
    ```
