@@ -7,7 +7,7 @@ For fine-tuning LLava, we employed the [LLaVA-Instruct-Mix-VSFT dataset](https:/
 ## Setup instruction
 To get started with this project, follow these steps:
 
-**Note:** It is advisable to use colab T4 environment. The model is 4-bit quantized and requires GPU. 
+**Note:** It is advisable to use colab ```T4``` environment. The model is ```4-bit``` quantized and requires GPU. 
 
 
 Clone the repository and run app.py on colab:
@@ -30,4 +30,4 @@ Clone the repository and run app.py on other platforms:
    python app.py
   ```
 
-Please wait for the steup to complete. A link will appear <alpha-numeric>.gradio.live. Click the link and continue with inferenec.
+Please wait for the steup to complete. A link will appear ```<alpha-numeric>.gradio.live```. Click the link and continue with inferenec.
