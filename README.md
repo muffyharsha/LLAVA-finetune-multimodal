@@ -3,9 +3,9 @@ Fine-tuning LLava, a leading-edge Large Language Model (LLM), enhances its capab
 
 This project uses ```gradio``` to serve the fine tuned model
 
-![Sample Image](images/detailedInference.png)
 
-![Demo](https://drive.google.com/file/d/164KuH2qRzHLm7LFdbxZPDtqSzb1PAper/view?usp=sharing)
+
+[![Demo Video](images/demo_thumbnil.png)](https://drive.google.com/file/d/164KuH2qRzHLm7LFdbxZPDtqSzb1PAper/view?usp=sharing)
 
 
 ## Dataset used
