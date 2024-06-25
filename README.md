@@ -14,9 +14,8 @@ Clone the repository and run app.py on colab:
 
    ```bash
    !git clone git@github.com:muffyharsha/LLAVA-finetune-multimodal.git
-   !cd LLAVA-finetune-multimodal
-   !pip install -r requirements.txt
-   !python app.py
+   !pip install -r /content/LLAVA-finetune-multimodal/requirements.txt
+   !python /content/LLAVA-finetune-multimodal/app.py
    ```
 
 ### or
