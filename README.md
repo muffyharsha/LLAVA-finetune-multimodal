@@ -4,6 +4,8 @@ Fine-tuning LLava, a leading-edge Large Language Model (LLM), enhances its capab
 This project uses ```gradio``` to serve the fine tuned model
 
 ![Sample Image](images/detailedInference.png)
+
+[![Demo](images/demo_thumbnil.png)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/164KuH2qRzHLm7LFdbxZPDtqSzb1PAper/view?usp=sharing))
 ## Dataset used
 For fine-tuning LLava, we employed the [LLaVA-Instruct-Mix-VSFT dataset](https://huggingface.co/datasets/HuggingFaceH4/llava-instruct-mix-vsft) dataset from Hugging Face. This dataset combines diverse instruction-following examples and conversational prompts, designed to enhance the model's ability to generate coherent, contextually appropriate responses. It includes a wide variety of scenarios, facilitating the model’s adaptation to multiple conversational styles and topics, thus enriching LLava’s proficiency in handling real-world interactions and diverse linguistic nuances.
 
