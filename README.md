@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 **Note:** It is advisable to use colab T4 environment. The model is 4-bit quantized and requires GPU. 
 
 
-1. Clone the repository and run app.py on colab:
+Clone the repository and run app.py on colab:
 
    ```bash
    !git clone git@github.com:muffyharsha/LLAVA-finetune-multimodal.git
@@ -29,4 +29,5 @@ Clone the repository and run app.py on other platforms:
    pip install -r requirements.txt
    python app.py
   ```
-2. Please wait for the steup to complete. A link will appear <alpha-numeric>.gradio.live. Click the link and continue with inferenec.
+
+Please wait for the steup to complete. A link will appear <alpha-numeric>.gradio.live. Click the link and continue with inferenec.
