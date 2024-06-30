@@ -1,4 +1,4 @@
-# LLAVA mulimodal fine-tuning
+# LLAVA multimodal fine-tuning
 Fine-tuning LLava, a leading-edge Large Language Model (LLM), enhances its capabilities for specific applications by adapting its general linguistic knowledge to specialized datasets. This process improves the model’s performance in handling domain-specific content, such as technical jargon or industry-specific terminology. By refining LLava’s pre-trained understanding, fine-tuning aligns the model more closely with unique requirements, making it adept at specialized tasks like customer support or medical documentation. This guide outlines key strategies for effectively fine-tuning LLava, ensuring optimal performance tailored to your application's needs.
 
 This project uses ```gradio``` to serve the fine tuned model
